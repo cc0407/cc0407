@@ -1,6 +1,5 @@
 ## Hi there, I'm Christian - aka [cc0407][website]
-### I'm a student, studying Software Engineering with a minor in Mathematics!
-
+### I'm a student, currently studying Software Engineering with a minor in Mathematics at the University of Guelph!
 <br />
 
 ## Currently learning:
