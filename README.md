@@ -25,7 +25,7 @@
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=cc0407&show_icons=true&hide_border=true&count_private=true" />
 
-[website]: https://christiancatalano.com
+[website]: https://christiancatalano.ca
 [instagram]: https://instagram.com/christian.catalano1
 [linkedin]: https://linkedin.com/in/christian-catalano
-[email]: mailto:cc0407@live.ca
+[email]: mailto:christiancatalano@outlook.com
