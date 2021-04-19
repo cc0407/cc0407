@@ -1,15 +1,23 @@
 ## Hi there, I'm Christian - aka [cc0407][website]
-### I'm a student, currently studying Software Engineering with a minor in Mathematics at the University of Guelph!
+I'm a student, currently studying Software Engineering with a minor in Mathematics at the University of Guelph!
 <br />
 
-## Currently learning:
+### Frameworks:
 - React
-- Typescript
-- Tailwind
 - React Native
+- Gatsby
+- Tailwind
+
+### Languages:
+- Typescript
+- Python
+- Java
+- C/C++
 
 <br />
 
+I am fascinated by front-end programming and game development. If you are looking for an additional team member for any projects or just feel like picking my brain feel free to reach out! 
+<br />Thanks for stopping by!<br />
 
 ## Connect with me:
 [Personal Site][website]
