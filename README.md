@@ -10,6 +10,7 @@ I'm a student, currently studying Software Engineering with a minor in Mathemati
 
 ### Languages:
 - Typescript
+- Javascript
 - Python
 - Java
 - C/C++
