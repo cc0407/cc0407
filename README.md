@@ -1,5 +1,5 @@
 ## Hi there, I'm Christian - aka [cc0407][website]
-I'm a student, currently studying Software Engineering with a minor in Mathematics at the University of Guelph!
+Currently studying B.Comp Honours Software Engineering, minoring in Mathematics, at the University of Guelph. 4 years of relevant full-time work experience. Professional knowledge in C/C++, Python, and industry standard web development (React, JS, Gatsby, Tailwind, Node.JS).
 <br />
 
 ### Frameworks:
