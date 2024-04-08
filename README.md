@@ -38,10 +38,6 @@ I am fascinated by front-end programming and game development. If you are lookin
 <br />
 <br />
 
-
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=cc0407&show_icons=true&hide_border=true&count_private=true" />
-
 [website]: https://christiancatalano.ca
-[instagram]: https://instagram.com/christian.catalano1
 [linkedin]: https://linkedin.com/in/christian-catalano
 [email]: mailto:christiancatalano@outlook.com
