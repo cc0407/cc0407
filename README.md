@@ -35,6 +35,6 @@ I am fascinated by front-end programming and game development. If you are lookin
 <br />
 <br />
 
-[website]: https://christiancatalano.ca
+[website]: https://cc0407.github.io/
 [linkedin]: https://linkedin.com/in/christian-catalano
 [email]: mailto:christiancatalano@outlook.com
