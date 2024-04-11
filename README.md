@@ -1,12 +1,11 @@
 ## Hi there, I'm Christian - aka [cc0407][website]
-Currently studying B.Comp Honours Software Engineering, minoring in Mathematics, at the University of Guelph. 4 years of relevant full-time work experience. Professional knowledge in C/C++, Python, and industry standard web development (React, JS, Gatsby, Tailwind, Node.JS).
-<br />
 
 ### Frameworks:
 - React
 - React Native
 - Gatsby
 - Tailwind
+- Ruby on Rails
 
 ### Languages:
 - Typescript
@@ -17,8 +16,8 @@ Currently studying B.Comp Honours Software Engineering, minoring in Mathematics,
 
 <br />
 
-I am fascinated by front-end programming and game development. If you are looking for an additional team member for any projects or just feel like picking my brain feel free to reach out! 
-<br />Thanks for stopping by!<br />
+I am fascinated by front-end programming. If you are looking for an additional team member for any projects or just feel like picking my brain feel free to reach out! 
+<br /><br />Thanks for stopping by!<br />
 
 ## Connect with me:
 [Personal Site][website]
