@@ -2,10 +2,10 @@
 
 ### Frameworks:
 - React
-- React Native
+- Express
+- Cypress
 - Gatsby
 - Tailwind
-- Ruby on Rails
 
 ### Languages:
 - Typescript
@@ -23,9 +23,6 @@ I am fascinated by front-end programming. If you are looking for an additional t
 [Personal Site][website]
 [<img align="left" alt="Personal Site" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
-[LinkedIn][linkedin]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 [email][email]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />][email]
 
@@ -35,5 +32,4 @@ I am fascinated by front-end programming. If you are looking for an additional t
 <br />
 
 [website]: https://cc0407.github.io/
-[linkedin]: https://linkedin.com/in/christian-catalano
 [email]: mailto:christiancatalano@outlook.com
